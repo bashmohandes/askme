@@ -1,0 +1,22 @@
+{
+  "name": "askme",
+  "version": "0.0.1",
+  "description": "A web Application to lean node.js and build a replacement of my ask.fm/bashmohandes website that I have better control over",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashmohandes/askme.git"
+  },
+  "author": "Mohamed Elsherif <bashmohandes@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashmohandes/askme/issues"
+  },
+  "homepage": "https://github.com/bashmohandes/askme#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
